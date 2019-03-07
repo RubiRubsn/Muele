@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="vorspann.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="62"/>
+        <CursorPos X="33" Y="74"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Column="8"/>
+      </Position1>
+      <Position2>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="30" Column="42" TopLine="17"/>
+      </Position2>
+      <Position3>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="6" Column="9"/>
+      </Position4>
+      <Position5>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="8" Column="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="19" TopLine="6"/>
+      </Position6>
+      <Position7>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="77" Column="59" TopLine="55"/>
+      </Position7>
+      <Position8>
+        <Filename Value="vorspann.lpr"/>
+      </Position8>
+      <Position9>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="64" Column="24" TopLine="52"/>
+      </Position9>
+      <Position10>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="66" Column="21" TopLine="53"/>
+      </Position10>
+      <Position11>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="72" Column="30" TopLine="59"/>
+      </Position11>
+      <Position12>
+        <Filename Value="vorspann.lpr"/>
+        <Caret Line="82" Column="31" TopLine="60"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
